@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">I'm currently learning DEVOPS 🚀</h3>
+<h3 align="center">I'm currently Working as a DEVOPS Engineer 🚀</h3>
 
 ---
 
