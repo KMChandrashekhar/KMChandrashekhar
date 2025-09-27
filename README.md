@@ -10,8 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on *DevOps Projects*  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
+- 🔭 I’m currently working on web applications and open-source contributions 
+- 🌱 I’m learning more about Cloud Technologies and Devops
+- 👯 I’m looking to collaborate on exciting open-source projects.
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/KMChandrashekhar)**  
 - 📫 Reach me at **kmchandrashekhar.iitkgp@gmail.com**  
 - ⚡ Fun fact: **I love solving real-world problems with automation**  
