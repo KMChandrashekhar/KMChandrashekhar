@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/KMChandrashekhar)**  
 - 📫 Reach me at **kmchandrashekhar.iitkgp@gmail.com**  
-- ⚡ Fun fact: **I love solving real-world problems with automation**  
+- 💾 Fun fact: **Lives life with version control**  
 
 ---
 
