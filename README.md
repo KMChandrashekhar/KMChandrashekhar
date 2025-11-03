@@ -20,6 +20,7 @@
 ---
 
 # 💻 Tech Stack:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
@@ -33,11 +34,16 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
 ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) 
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) 
 ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) 
+![Logstash](https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
 ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white) 
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Freshworks](https://img.shields.io/badge/Freshworks-27C1A3?style=for-the-badge&logo=freshworks&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ---
 
