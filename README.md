@@ -52,12 +52,16 @@
 
 <p align="left">
   <a href="https://github.com/KMChandrashekhar">
-    <img alt="Chandrashekhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KMChandrashekhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img alt="Chandrashekhar's Github Stats"
+         src="https://github-readme-stats-git-masterorg.vercel.app/api?username=KMChandrashekhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
   </a>
+
   <a href="https://github.com/KMChandrashekhar">
-    <img alt="Chandrashekhar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMChandrashekhar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img alt="Chandrashekhar's Top Languages"
+         src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=KMChandrashekhar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
+
 
 
 ---
