@@ -61,16 +61,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="left">
-  <a href="https://github.com/KMChandrashekhar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KMChandrashekhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
----
-
 ## 🌐 Connect with me:
 
 <p align="left">
